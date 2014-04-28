@@ -167,6 +167,10 @@
 		</Configuration>
 	</Configurations>
 	<References>
+		<ProjectReference
+			ReferencedProjectIdentifier="{844F4E85-8CCE-406B-9F69-18B97BA3BB01}"
+			RelativePathToProject="..\LocalConnector\Connector2005\Connector2005\Connector2005.vcproj"
+		/>
 	</References>
 	<Files>
 		<Filter
